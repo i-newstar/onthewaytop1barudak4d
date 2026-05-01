@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+
+Disallow: /cdn-cgi/
+Disallow: /tmp/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://onthewaytop1barudak4d.pages.dev/sitemap.xml
